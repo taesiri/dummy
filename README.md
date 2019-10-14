@@ -248,6 +248,29 @@ sudo update-alternatives --config gcc
 sudo update-alternatives --config g++
 ```
 
+## FFMPEG
+
+### Remove Letterbox
+
+[Source](https://superuser.com/questions/810471/remove-mp4-video-top-and-bottom-black-bars-using-ffmpeg)
+
+Extract crop information
+
+```bash
+ffmpeg -ss 90 -i input.mp4 -vframes 10 -vf cropdetect -f null -
+```
+
+Preview the file:
+
+```bash
+ffplay -vf crop=1280:720:0:0 input.mp4
+```
+
+Re-encode with crop filter
+
+```bash
+ffmpeg -i input.mp4 -vf crop=1280:720:0:0 -c:a copy output.mp4
+```
 
 ## Python Goodies
 
