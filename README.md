@@ -274,6 +274,14 @@ ffmpeg -i input.mp4 -vf crop=1280:720:0:0 -c:a copy output.mp4
 
 ## Python Goodies
 
+### IPython
+
+Register a kernel
+
+```python
+python -m ipykernel install --user --name MYENV --display-name "DISPLAYNAME"
+```
+
 ### OpenCV + FFMPEG
 
 ```bash
