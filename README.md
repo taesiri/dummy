@@ -250,6 +250,12 @@ sudo update-alternatives --config g++
 
 ## FFMPEG
 
+### Images to Video
+
+```bash
+!ffmpeg -r 16 -i /PATH/TO/IMAGES/images-%4d.png  test.mp4
+```
+
 ### Remove Letterbox
 
 [Source](https://superuser.com/questions/810471/remove-mp4-video-top-and-bottom-black-bars-using-ffmpeg)
