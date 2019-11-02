@@ -29,7 +29,7 @@ ap my-apache 8800
 Download a torrent with ``magnet`` link.
 
 ```bash
-    docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli 'MAGNETHERE' -o /dlbox
+docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli 'MAGNETHERE' -o /dlbox
 ```
 
 **As a Bash function**:
