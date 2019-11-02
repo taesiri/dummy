@@ -12,6 +12,18 @@ Apache on this dir!
 docker run -dit --name my-apache -p 8080:80 -v "$PWD":/usr/local/apache2/htdocs/ httpd:2.4
 ```
 
+**As a bash function**
+
+```bash
+ap () {docker run -dit --name $1 -p $2:80 -v "$PWD":/usr/local/apache2/htdocs/ httpd:2.4 ;}
+```
+
+Put the above line in your ``bashrc`` or ``zshrc`` file, Then run like this
+
+```bash
+ap my-apache 8800
+```
+
 ### WebTorrent
 
 Download a torrent with ``magnet`` link.
@@ -23,7 +35,7 @@ Download a torrent with ``magnet`` link.
 **As a Bash function**:
 
 ```bash
-wt () { docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli "$@" -o /dlbox; }
+wt () { docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli $1 -o /dlbox; }
 ```
 
 Put the above line in your ``bashrc`` or ``zshrc`` file, Then run like this
