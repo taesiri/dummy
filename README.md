@@ -20,6 +20,18 @@ Download a torrent with ``magnet`` link.
     docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli 'MAGNETHERE' -o /dlbox
 ```
 
+**As a Bash function**:
+
+```bash
+wt () { docker run --rm -it -v "$PWD":/dlbox pataquets/webtorrent-cli "$@" -o /dlbox; }
+```
+
+Put the above line in your ``bashrc`` or ``zshrc`` file, Then run like this
+
+```bash
+wt "MAGNETHERE"
+```
+
 ## Proxy Goodies
 
 ### Apostle
