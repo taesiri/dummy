@@ -49,6 +49,14 @@ wt "MAGNETHERE"
 ### Apostle
 
 ```bash
+git clone --depth=1 https://github.com/taesiri/Apostle
+cd Apostle/server/shadowsocksR
+docker-compose build
+docker-compose up -d
+```
+
+
+```bash
 ## SERVER
 
 docker run -d -p 47437:47437 taesiri/apostle-kcp -l 0.0.0.0:47437 -t 127.0.0.1:10003 --crypt aes-192 --key manmade
