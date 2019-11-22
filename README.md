@@ -228,6 +228,32 @@ sudo iptables -A FORWARD -i enp4s0 -o enp5s0 -j ACCEPT
 
 ## Linux Goodies
 
+### Ports and Connections
+
+* [Source 1](https://serverfault.com/questions/421310/check-the-number-of-active-connections-on-port-80)
+
+* [Source 2](https://unix.stackexchange.com/questions/36169/how-to-list-all-unique-ip-address-currently-connected-to-a-specific-port)
+
+Check Number of Active connections on given port.
+
+```bash
+netstat -anp | grep :8000 | grep ESTABLISHED | wc -l
+```
+
+All types of Connections.
+
+```bash
+netstat -ant | grep :8000 | awk '{print $6}' | sort | uniq -c | sort -n
+```
+
+List all unique IPs connected to specific port
+
+```bash
+netstat -nt | awk '/:8088.*ESTABLISHED/ { split ($5, a, ":"); print a[1] }' | uniq 
+```
+
+
+
 ### Restart into Windows form Ubuntu
 
 [Creating a "Reboot into Windows" Button in Ubuntu | rastating.github.io](https://rastating.github.io/creating-a-reboot-into-windows-button-in-ubuntu/)
