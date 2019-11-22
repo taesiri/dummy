@@ -259,6 +259,22 @@ netstat -nt | awk '/:443.*ESTABLISHED/ { split ($5, a, ":"); print a[1] }'  | so
 ```
 
 
+### Proxy Tools
+
+Socks to HTTP Using Delegate
+
+```bash
+dg9_9_13 -P8080 SERVER=http SOCKS=127.0.0.1:3000 ADMIN="local@localhost.com"
+```
+
+Socks to HTTP Using Privoxy
+
+```
+## config file for privoxy
+forward-socks5 / 127.0.0.1:3000  .
+listen-address 127.0.0.1:8118
+```
+
 
 ### Restart into Windows form Ubuntu
 
