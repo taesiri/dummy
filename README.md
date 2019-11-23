@@ -52,6 +52,32 @@ Put the above line in your ``bashrc`` or ``zshrc`` file, Then run like this
 wt "MAGNETHERE"
 ```
 
+## Dockerfiles
+
+### SSH Remote Port Forwarder
+
+```Dockerfile
+FROM alpine:latest
+
+ENV REMOTE_PORT 10001
+ENV REMOTE_IP 0.0.0.0
+ENV LOCAL_PORT 8388
+
+RUN apk --update add \
+    openssh && \
+    rm -rf /var/cache/apk/*
+
+COPY id_rsa /tmp/id_rsa
+CMD ssh  -i /tmp/id_rsa -R 0.0.0.0:$REMOTE_PORT:0.0.0.0:$LOCAL_PORT -N root@$REMOTE_IP -o StrictHostKeyChecking=no
+```
+
+Run like this:
+
+```bash
+docker run --net=host -e REMOTE_PORT=<PORT_ON_REMOTE_SERVER> -e LOCAL_PORT=<PORT_ON_THIS_SERVER> -e LOCAL_PORT=<REMOTE_SERVER_IP> -d alssh
+```
+
+
 ## Proxy Goodies
 
 ### Apostle
