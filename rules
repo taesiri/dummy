@@ -1,1 +1,18 @@
-ewogICJtZXRob2QiIDogImF1dG8iLAogICJ1dWlkIiA6ICJBN0Y4NTVFNC03OEQ1LTQ4MUUtQjY3OS1CQzJDOUFDNEVBRDciLAogICJmaWxlIiA6ICJcLzEyYTVhMTEwLTBmNDYtMTFlYS04ZDcxLTM2MmI5ZTE1NTY2NyIsCiAgInVwZGF0ZWQiIDogMTU3NDY3ODkxNC45ODY1Mjk4LAogICJwbHVnaW4iIDogIm5vbmUiLAogICJ3ZWlnaHQiIDogMTU3NDY3OTA1MiwKICAidGxzIiA6IHRydWUsCiAgImhvc3QiIDogInRhbGsudGFlc2lyaS5jb20iLAogICJ0aXRsZSIgOiAiVkFUQU4tVVMtRGVmYXVsdCIsCiAgInBpbmciIDogMTYsCiAgImZsYWciIDogIklSIiwKICAicGFzc3dvcmQiIDogIjEyYTVhMTEwLTBmNDYtMTFlYS04ZDcxLTM2MmI5ZTE1NTY2NyIsCiAgImNyZWF0ZWQiIDogMTU3NDY3ODYzOS43NTAzNzI5LAogICJvYmZzIiA6ICJ3ZWJzb2NrZXQiLAogICJ0eXBlIiA6ICJWbWVzcyIsCiAgInBvcnQiIDogNDQzCn0=
+{
+  "method" : "auto",
+  "uuid" : "A7F855E4-78D5-481E-B679-BC2C9AC4EAD7",
+  "file" : "\/12a5a110-0f46-11ea-8d71-362b9e155667",
+  "updated" : 1574678914.9865298,
+  "plugin" : "none",
+  "weight" : 1574679052,
+  "tls" : true,
+  "host" : "talk.taesiri.com",
+  "title" : "VATAN-US-Default",
+  "ping" : 16,
+  "flag" : "IR",
+  "password" : "12a5a110-0f46-11ea-8d71-362b9e155667",
+  "created" : 1574678639.7503729,
+  "obfs" : "websocket",
+  "type" : "Vmess",
+  "port" : 443
+}
