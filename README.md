@@ -74,7 +74,7 @@ CMD ssh  -i /tmp/id_rsa -R 0.0.0.0:$REMOTE_PORT:0.0.0.0:$LOCAL_PORT -N root@$REM
 Run like this:
 
 ```bash
-docker run --net=host -e REMOTE_PORT=<PORT_ON_REMOTE_SERVER> -e LOCAL_PORT=<PORT_ON_THIS_SERVER> -e LOCAL_PORT=<REMOTE_SERVER_IP> -d alssh
+docker run --net=host -e REMOTE_PORT=<PORT_ON_REMOTE_SERVER> -e REMOTE_IP=<REMOTE_SERVER_IP> -e LOCAL_PORT=<PORT_ON_THIS_SERVER>  -d alssh
 ```
 
 
