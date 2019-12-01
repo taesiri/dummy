@@ -52,6 +52,20 @@ Put the above line in your ``bashrc`` or ``zshrc`` file, Then run like this
 wt "MAGNETHERE"
 ```
 
+### Some useful Commands!
+
+Restart All Containers
+
+```bash
+docker ps -aq | xargs docker restart 
+```
+
+Restart Only Crashed Containers
+
+```bash
+docker ps -f "status=exited" -q | xargs docker restart 
+```
+
 ## Dockerfiles
 
 ### SSH Remote Port Forwarder
