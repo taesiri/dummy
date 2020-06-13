@@ -332,7 +332,7 @@ sudo ln -s /run/resolvconf/resolv.conf /etc/resolv.conf
 ## modify /run/resolvconf/resolv.conf
 ```
 
-### Setup a Swap
+### Setup a 1
 
 ```bash
 sudo fallocate -l 1G /swapfile
@@ -340,6 +340,11 @@ sudo chmod 600 /swapfile
 sudo mkswap /swapfile
 sudo swapon /swapfile
 ```
+
+Add the following line to ``/etc/fstab`` for auto-mounting at startup.
+/swapfile none swap defaults 0 0
+
+
 
 ### Run a job with Cron at startup
 
