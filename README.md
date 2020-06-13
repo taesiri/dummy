@@ -342,8 +342,10 @@ sudo swapon /swapfile
 ```
 
 Add the following line to ``/etc/fstab`` for auto-mounting at startup.
-/swapfile none swap defaults 0 0
 
+```bash
+/swapfile none swap defaults 0 0
+```
 
 
 ### Run a job with Cron at startup
