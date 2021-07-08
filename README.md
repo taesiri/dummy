@@ -332,7 +332,7 @@ sudo ln -s /run/resolvconf/resolv.conf /etc/resolv.conf
 ## modify /run/resolvconf/resolv.conf
 ```
 
-### Setup a 1
+### Setup a swap space
 
 ```bash
 sudo fallocate -l 1G /swapfile
