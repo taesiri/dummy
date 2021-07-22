@@ -94,6 +94,23 @@ docker run --net=host -e REMOTE_PORT=<PORT_ON_REMOTE_SERVER> -e REMOTE_IP=<REMOT
 
 ## Proxy Goodies
 
+### Gost
+
+Remote Port Forwarding: Forwarding SSH port 22 from your local machine to your remove server:
+
+```bash
+# On Server
+./gost -L forward+ssh://:5000
+```
+
+```bash
+# On Your Local Machine
+./gost -L=rtcp://:2223/:22 -F forward+ssh://SERVER-ADDRESS:5000  
+```
+
+You can ssh into your local machine from the server using port 2223 on the SERVER.
+
+
 ### Apostle
 
 ```bash
