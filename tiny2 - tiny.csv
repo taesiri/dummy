@@ -1,0 +1,231 @@
+sample_id,ground_truth,prediction,query
+9625,['sunglasses'],loupe,"I am looking at a picture of a `sunglasses`. The model predicted it is a `loupe`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2588,['english setter'],wire fox terrier,"I am looking at a picture of a `english setter`. The model predicted it is a `wire fox terrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2094,['bedlington terrier'],wire fox terrier,"I am looking at a picture of a `bedlington terrier`. The model predicted it is a `wire fox terrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4375,['lionfish'],screwdriver,"I am looking at a picture of a `lionfish`. The model predicted it is a `screwdriver`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5940,['dock'],aircraft carrier,"I am looking at a picture of a `dock`. The model predicted it is a `aircraft carrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4790,['bassoon'],oboe,"I am looking at a picture of a `bassoon`. The model predicted it is a `oboe`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7158,['milk can'],weimaraner,"I am looking at a picture of a `milk can`. The model predicted it is a `weimaraner`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6184,['filing cabinet'],folding chair,"I am looking at a picture of a `filing cabinet`. The model predicted it is a `folding chair`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5446,['cleaver'],can opener,"I am looking at a picture of a `cleaver`. The model predicted it is a `can opener`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5873,['dishcloth'],mop,"I am looking at a picture of a `dishcloth`. The model predicted it is a `mop`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7284,['monastery'],dust jacket,"I am looking at a picture of a `monastery`. The model predicted it is a `dust jacket`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5379,['chain mail'],tripod,"I am looking at a picture of a `chain mail`. The model predicted it is a `tripod`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+11061,['seashore'],church,"I am looking at a picture of a `seashore`. The model predicted it is a `church`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+590,['ring necked snake'],saharan horned viper,"I am looking at a picture of a `ring necked snake`. The model predicted it is a `saharan horned viper`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5210,['can opener'],waffle iron,"I am looking at a picture of a `can opener`. The model predicted it is a `waffle iron`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4926,['bib'],cleaver,"I am looking at a picture of a `bib`. The model predicted it is a `cleaver`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3211,['griffon bruxellois'],nematode,"I am looking at a picture of a `griffon bruxellois`. The model predicted it is a `nematode`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+140,['vulture'],shield,"I am looking at a picture of a `vulture`. The model predicted it is a `shield`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+317,['carolina anole'],chameleon,"I am looking at a picture of a `carolina anole`. The model predicted it is a `chameleon`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+117,['jay'],ruffed grouse,"I am looking at a picture of a `jay`. The model predicted it is a `ruffed grouse`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10125,['vase'],goblet,"I am looking at a picture of a `vase`. The model predicted it is a `goblet`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3883,['ox'],water buffalo,"I am looking at a picture of a `ox`. The model predicted it is a `water buffalo`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2303,['sealyham terrier'],lakeland terrier,"I am looking at a picture of a `sealyham terrier`. The model predicted it is a `lakeland terrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+8416,['projectile'],missile,"I am looking at a picture of a `projectile`. The model predicted it is a `missile`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7952,['pier'],baluster,"I am looking at a picture of a `pier`. The model predicted it is a `baluster`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4123,['langur'],marmoset,"I am looking at a picture of a `langur`. The model predicted it is a `marmoset`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1923,['treeing walker coonhound'],english foxhound,"I am looking at a picture of a `treeing walker coonhound`. The model predicted it is a `english foxhound`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9919,['toilet seat'],parking meter,"I am looking at a picture of a `toilet seat`. The model predicted it is a `parking meter`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5114,['bucket'],cocktail shaker,"I am looking at a picture of a `bucket`. The model predicted it is a `cocktail shaker`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5762,['crash helmet'],dust jacket,"I am looking at a picture of a `crash helmet`. The model predicted it is a `dust jacket`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10109,['vase'],cocktail shaker,"I am looking at a picture of a `vase`. The model predicted it is a `cocktail shaker`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1503,['red king crab'],wolf spider,"I am looking at a picture of a `red king crab`. The model predicted it is a `wolf spider`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5257,['car wheel'],lens cap,"I am looking at a picture of a `car wheel`. The model predicted it is a `lens cap`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2603,['irish setter'],fire screen sheet,"I am looking at a picture of a `irish setter`. The model predicted it is a `fire screen sheet`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+565,['ring necked snake'],brambling,"I am looking at a picture of a `ring necked snake`. The model predicted it is a `brambling`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1070,['wolf spider'],stick insect,"I am looking at a picture of a `wolf spider`. The model predicted it is a `stick insect`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6271,['frying pan'],mobile phone,"I am looking at a picture of a `frying pan`. The model predicted it is a `mobile phone`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4965,['binoculars'],thimble,"I am looking at a picture of a `binoculars`. The model predicted it is a `thimble`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5776,['crock pot'],hen of the woods,"I am looking at a picture of a `crock pot`. The model predicted it is a `hen of the woods`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10636,['ice cream'],candle,"I am looking at a picture of a `ice cream`. The model predicted it is a `candle`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2466,['australian silky terrier'],tibetan terrier,"I am looking at a picture of a `australian silky terrier`. The model predicted it is a `tibetan terrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3150,['leonberger'],scottish deerhound,"I am looking at a picture of a `leonberger`. The model predicted it is a `scottish deerhound`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4309,['common squirrel monkey'],titi,"I am looking at a picture of a `common squirrel monkey`. The model predicted it is a `titi`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7247,['mixing bowl'],daisy,"I am looking at a picture of a `mixing bowl`. The model predicted it is a `daisy`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7978,['pier'],dust jacket,"I am looking at a picture of a `pier`. The model predicted it is a `dust jacket`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10279,['water jug'],espresso machine,"I am looking at a picture of a `water jug`. The model predicted it is a `espresso machine`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6005,['drilling rig'],crane machine,"I am looking at a picture of a `drilling rig`. The model predicted it is a `crane machine`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+11314,['modem'],vacuum cleaner,"I am looking at a picture of a `modem`. The model predicted it is a `vacuum cleaner`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9710,['mop'],guillotine,"I am looking at a picture of a `mop`. The model predicted it is a `guillotine`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9967,['tray'],gong,"I am looking at a picture of a `tray`. The model predicted it is a `gong`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9904,"['toaster', 'microwave oven']",barber chair,"I am looking at a picture of a `toaster, microwave oven`. The model predicted it is a `barber chair`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1895,['treeing walker coonhound'],beagle,"I am looking at a picture of a `treeing walker coonhound`. The model predicted it is a `beagle`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9595,['sunglasses'],loupe,"I am looking at a picture of a `sunglasses`. The model predicted it is a `loupe`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5397,['chest'],quilt,"I am looking at a picture of a `chest`. The model predicted it is a `quilt`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1666,['maltese'],kuvasz,"I am looking at a picture of a `maltese`. The model predicted it is a `kuvasz`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1703,['shih tzu'],sussex spaniel,"I am looking at a picture of a `shih tzu`. The model predicted it is a `sussex spaniel`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1407,['sea slug'],sea anemone,"I am looking at a picture of a `sea slug`. The model predicted it is a `sea anemone`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+815,['african rock python'],boa constrictor,"I am looking at a picture of a `african rock python`. The model predicted it is a `boa constrictor`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10593,['guacamole'],envelope,"I am looking at a picture of a `guacamole`. The model predicted it is a `envelope`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+11080,['valley'],volcano,"I am looking at a picture of a `valley`. The model predicted it is a `volcano`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6986,['loupe'],muzzle,"I am looking at a picture of a `loupe`. The model predicted it is a `muzzle`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10281,['water jug'],coffee mug,"I am looking at a picture of a `water jug`. The model predicted it is a `coffee mug`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1213,['jacamar'],dowitcher,"I am looking at a picture of a `jacamar`. The model predicted it is a `dowitcher`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10945,['cup'],hourglass,"I am looking at a picture of a `cup`. The model predicted it is a `hourglass`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+465,['european green lizard'],green iguana,"I am looking at a picture of a `european green lizard`. The model predicted it is a `green iguana`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10823,['hay'],thatched roof,"I am looking at a picture of a `hay`. The model predicted it is a `thatched roof`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+11329,['screwdriver'],tool kit,"I am looking at a picture of a `screwdriver`. The model predicted it is a `tool kit`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2636,['gordon setter'],sussex spaniel,"I am looking at a picture of a `gordon setter`. The model predicted it is a `sussex spaniel`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+8738,"['chain', 'rotisserie']",crane machine,"I am looking at a picture of a `chain, rotisserie`. The model predicted it is a `crane machine`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+675,['smooth green snake'],nematode,"I am looking at a picture of a `smooth green snake`. The model predicted it is a `nematode`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6270,['frying pan'],hair dryer,"I am looking at a picture of a `frying pan`. The model predicted it is a `hair dryer`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3171,['newfoundland'],persian cat,"I am looking at a picture of a `newfoundland`. The model predicted it is a `persian cat`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+215,['american bullfrog'],comic book,"I am looking at a picture of a `american bullfrog`. The model predicted it is a `comic book`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9206,['slot machine'],prayer rug,"I am looking at a picture of a `slot machine`. The model predicted it is a `prayer rug`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4964,['binoculars'],cannon,"I am looking at a picture of a `binoculars`. The model predicted it is a `cannon`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+8032,['pitcher'],whiskey jug,"I am looking at a picture of a `pitcher`. The model predicted it is a `whiskey jug`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10139,['vault'],lighthouse,"I am looking at a picture of a `vault`. The model predicted it is a `lighthouse`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9236,['snowplow'],taxicab,"I am looking at a picture of a `snowplow`. The model predicted it is a `taxicab`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6929,['library'],dust jacket,"I am looking at a picture of a `library`. The model predicted it is a `dust jacket`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5240,['car wheel'],spotlight,"I am looking at a picture of a `car wheel`. The model predicted it is a `spotlight`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+295,['banded gecko'],paper knife,"I am looking at a picture of a `banded gecko`. The model predicted it is a `paper knife`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10780,['fig'],petri dish,"I am looking at a picture of a `fig`. The model predicted it is a `petri dish`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1814,['bloodhound'],english foxhound,"I am looking at a picture of a `bloodhound`. The model predicted it is a `english foxhound`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7309,['mosquito net'],coffee mug,"I am looking at a picture of a `mosquito net`. The model predicted it is a `coffee mug`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10127,['vase'],mitten,"I am looking at a picture of a `vase`. The model predicted it is a `mitten`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+615,['eastern hog nosed snake'],sea anemone,"I am looking at a picture of a `eastern hog nosed snake`. The model predicted it is a `sea anemone`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4617,['balloon'],parachute,"I am looking at a picture of a `balloon`. The model predicted it is a `parachute`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6144,['espresso machine'],dumbbell,"I am looking at a picture of a `espresso machine`. The model predicted it is a `dumbbell`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5117,['bucket'],water jug,"I am looking at a picture of a `bucket`. The model predicted it is a `water jug`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5510,['coffee mug'],sink,"I am looking at a picture of a `coffee mug`. The model predicted it is a `sink`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7111,['match'],safety pin,"I am looking at a picture of a `match`. The model predicted it is a `safety pin`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10621,['hot pot'],envelope,"I am looking at a picture of a `hot pot`. The model predicted it is a `envelope`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7279,['monastery'],palace,"I am looking at a picture of a `monastery`. The model predicted it is a `palace`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2119,['kerry blue terrier'],marmoset,"I am looking at a picture of a `kerry blue terrier`. The model predicted it is a `marmoset`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3987,['skunk'],white stork,"I am looking at a picture of a `skunk`. The model predicted it is a `white stork`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+10708,['spaghetti squash'],goblet,"I am looking at a picture of a `spaghetti squash`. The model predicted it is a `goblet`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6088,['envelope'],dumbbell,"I am looking at a picture of a `envelope`. The model predicted it is a `dumbbell`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6937,['lifeboat'],through arch bridge,"I am looking at a picture of a `lifeboat`. The model predicted it is a `through arch bridge`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7825,['park bench'],microwave oven,"I am looking at a picture of a `park bench`. The model predicted it is a `microwave oven`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+138,['bald eagle'],axolotl,"I am looking at a picture of a `bald eagle`. The model predicted it is a `axolotl`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4099,['langur'],hare,"I am looking at a picture of a `langur`. The model predicted it is a `hare`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1876,['black and tan coonhound'],german shorthaired pointer,"I am looking at a picture of a `black and tan coonhound`. The model predicted it is a `german shorthaired pointer`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+7951,['pier'],bouvier des flandres,"I am looking at a picture of a `pier`. The model predicted it is a `bouvier des flandres`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+2326,['airedale terrier'],wire fox terrier,"I am looking at a picture of a `airedale terrier`. The model predicted it is a `wire fox terrier`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1570,['great egret'],nematode,"I am looking at a picture of a `great egret`. The model predicted it is a `nematode`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+8149,['plate rack'],filing cabinet,"I am looking at a picture of a `plate rack`. The model predicted it is a `filing cabinet`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+5588,['combination lock'],space bar,"I am looking at a picture of a `combination lock`. The model predicted it is a `space bar`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+4178,['proboscis monkey'],hare,"I am looking at a picture of a `proboscis monkey`. The model predicted it is a `hare`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+1769,['bloodhound'],collie,"I am looking at a picture of a `bloodhound`. The model predicted it is a `collie`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3477,['tiger cat'],tabby cat,"I am looking at a picture of a `tiger cat`. The model predicted it is a `tabby cat`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+9801,['table lamp'],whistle,"I am looking at a picture of a `table lamp`. The model predicted it is a `whistle`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+3330,['grey wolf'],coyote,"I am looking at a picture of a `grey wolf`. The model predicted it is a `coyote`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+765,['night snake'],worm snake,"I am looking at a picture of a `night snake`. The model predicted it is a `worm snake`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+8683,['reel'],toy store,"I am looking at a picture of a `reel`. The model predicted it is a `toy store`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
+6739,['ladle'],shovel,"I am looking at a picture of a `ladle`. The model predicted it is a `shovel`.
+Can you categorize this prediction as plausible mistake or implausible mistake? provide a one line description."
